@@ -1,6 +1,6 @@
-#Base para proyecto de NodeJS
+# Base para proyecto de NodeJS
 
-###Tecnologias
+### Tecnologias
 - TypeScript
 - Express
 - Biome
